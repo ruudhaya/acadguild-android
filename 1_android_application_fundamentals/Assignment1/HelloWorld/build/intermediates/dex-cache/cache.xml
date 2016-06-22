@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\UserData\Udhay\2015\AndroidProjWS\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-beta1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f81eecb8d5e9e548f75f277830a94a9b37fbb987">
+        <dex dex="D:\UserData\Udhay\2015\AndroidProjWS\HelloWorld\app\build\intermediates\pre-dexed\debug\classes-dcb7a06743ffb3252defef83b8936de1bcdf486f.jar" />
+    </item>
+    <item
+        jar="D:\UserData\Udhay\2015\AndroidProjWS\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-beta1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8d3137a71200c47974c0454ae8ad272a09c533eb">
+        <dex dex="D:\UserData\Udhay\2015\AndroidProjWS\HelloWorld\app\build\intermediates\pre-dexed\debug\classes-51e3f945a8783703e9066eea2476686f362793b4.jar" />
+    </item>
+    <item
+        jar="D:\UserData\Udhay\2015\AndroidProjWS\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-beta1\jars\libs\internal_impl-24.0.0-beta1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23d564c059873f398dc5d967f56791a66472ce76">
+        <dex dex="D:\UserData\Udhay\2015\AndroidProjWS\HelloWorld\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-beta1-721fe832f805075de19e362879ed0c8f4da1d554.jar" />
+    </item>
+    <item
+        jar="D:\UserData\Udhay\2015\AndroidProjWS\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-beta1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3c0208faf42864e6695345e64d1b955070263819">
+        <dex dex="D:\UserData\Udhay\2015\AndroidProjWS\HelloWorld\app\build\intermediates\pre-dexed\debug\classes-ed3ff5799d85dfe1601fa3e7439396f2269d6cbe.jar" />
+    </item>
+    <item
+        jar="D:\UserData\Udhay\Softwares\Android\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\24.0.0-beta1\support-annotations-24.0.0-beta1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="04705c19cdec60364bc04e2e928c274da1ba301b">
+        <dex dex="D:\UserData\Udhay\2015\AndroidProjWS\HelloWorld\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-beta1-937d39bbd80fbf74370b4677e4cc073e3e388b7d.jar" />
+    </item>
+    <item
+        jar="D:\UserData\Udhay\2015\AndroidProjWS\HelloWorld\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-beta1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="97f82fd0c185bd2881a93646954f2429be4baa86">
+        <dex dex="D:\UserData\Udhay\2015\AndroidProjWS\HelloWorld\app\build\intermediates\pre-dexed\debug\classes-fe963a25aa616978fa4567df69c6419ca81751c2.jar" />
+    </item>
+
+</items>
